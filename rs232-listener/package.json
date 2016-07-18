@@ -1,0 +1,14 @@
+{
+  "name": "rs232-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "listener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^4.0.1"
+  }
+}
